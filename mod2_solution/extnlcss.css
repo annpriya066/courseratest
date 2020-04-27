@@ -49,6 +49,16 @@ p{
   padding: 3px;
 }
  
+#c1{
+  background-color:#ff9999;
+}
+#c2{
+    background-color: #b30000;
+}
+#c3{
+
+  background-color:#ffff99;
+}
 
 /* For mobile phones: */
 [class*="col-"] {
