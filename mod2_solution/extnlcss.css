@@ -25,9 +25,6 @@ html {
 
 }
 
-
-
-  
  
 h4{
   text-align: right;
@@ -39,6 +36,16 @@ h4{
   top: 0px;
   right: 0px;
 
+}
+#c1{
+  background-color:#ff9999;
+}
+#c2{
+    background-color: #b30000;
+}
+#c3{
+
+  background-color:#ffff99;
 }
 .aside {
   background-color: #888888;
